@@ -1,0 +1,34 @@
+body{
+  background-color: #eee;
+}
+
+#involvements .pittco {
+  background-image: url(../images/2013/logos/pittco.png);
+}
+#involvements .thinkcomputers {
+  background-image: url(../images/2013/logos/thinkcomputers.png);
+}
+#involvements .steelcityruby {
+  background-image: url(../images/2013/logos/scrc.png);
+}
+#involvements .ibm {
+  background-image: url(../images/2013/logos/ibm.png);
+}
+#involvements .vivisimo {
+  background-image: url(../images/2013/logos/vivisimo.png);
+}
+#involvements .metamesh {
+  background-image: url(../images/2013/logos/metamesh.png);
+}
+#involvements .codeandsupply {
+  background-image: url(../images/2014/logos/codeandsupply.png);
+}
+#involvements .devopsdays {
+  background-image: url(../images/2014/logos/devopsdays.png);
+}
+#involvements .imaginecareers {
+  background-image: url(../images/2014/logos/imaginecareers.png);
+}
+#involvements .gxl {
+  background-image: url(../images/2014/logos/gxl.png);
+}

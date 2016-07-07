@@ -1,0 +1,45 @@
+header h1 {
+  font-family: Arial;
+  font-size: 7em;
+  font-weight: bold;
+  color: #bbb;
+  text-shadow: 0px 1px 0px #a99, 0px 2px 0px #988, 0px 3px 0px #877, 0px 4px 0px #766, 0px 5px 0px #655, 0px 6px 0px #544, 0px 7px 0px #433, 0px 8px 7px #001135;
+}
+
+header h1:hover {
+  text-shadow: 0px 1px 1px #d99, 0px 2px 2px #c88, 0px 3px 3px #b77, 0px 4px 4px #a66, 0px 5px 5px #955, 0px 6px 6px #844, 0px 7px 7px #733, 0px 8px 8px #331135, 0px -2px 10px #f00;
+  color: #fff;
+}
+
+nav h1 {
+  font-variant: small-caps; 
+  color: #888;
+}
+
+header h2 {
+  text-shadow: 0px 1px 10px #4d4d4d; 
+  color: #888;
+  font-variant: small-caps;
+}
+
+body {
+  font-family: "Ubuntu Light","Ubuntu","Arial", sans-serif;
+  font-weight:300;
+  font-size: 16px;
+}
+p,li {
+  font-size: 90%;
+  line-height: 130%;
+}
+
+.blurb {
+  font-size: 120%;
+}
+
+section h1 {
+  font-size: 140%;
+}
+
+em {
+  font-style:italic;
+}
