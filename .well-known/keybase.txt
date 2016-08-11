@@ -1,0 +1,69 @@
+==================================================================
+https://keybase.io/colindean
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://cad.cx
+  * I am colindean (https://keybase.io/colindean) on keybase.
+  * I have a public key with fingerprint 8298 ED34 3ECA 2B1C 5156  B81D 158B 991E C280 8780
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "01116d928e29a6da7f06d7c6b8b347b621bad9d0354a3131232de73eb6b11b36c2cb0a",
+            "fingerprint": "8298ed343eca2b1c5156b81d158b991ec2808780",
+            "host": "keybase.io",
+            "key_id": "158b991ec2808780",
+            "kid": "01116d928e29a6da7f06d7c6b8b347b621bad9d0354a3131232de73eb6b11b36c2cb0a",
+            "uid": "efe79fedcb646b9fe830455375402e00",
+            "username": "colindean"
+        },
+        "revoke": {
+            "sig_ids": [
+                "e8e202288ed325616f4826436ed86bb286f14f9e1ea21b70c10faa87269b81ca0f"
+            ]
+        },
+        "service": {
+            "hostname": "cad.cx",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1470921731,
+    "expire_in": 157680000,
+    "prev": "2b485fe73d145366340034d57f67082645deca00385d17b1a89b7d2a61943c6b",
+    "seqno": 42,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Comment: GPGTools - http://gpgtools.org
+
+owGtkruKFEEUhtv1go4ITmDkKFLxstS9qicwUQQfQAwWGepyeraZtXvs7hlnWRcW
+EV0wEUVBEEyMRDDwAQTXQNjYRHwBY42MPDW4maGddPfhP//56j/15MzRbKV/7vHL
+i592H+0eOfjhs5vv7p3eJr6OW2S4TSawfMFmhLYbTcpIhoQyxnTMuQWeOx2dKaiO
+JmhvvZDGa868i3mkQkknmGBc8AhGgNeeMS904MFTR1ZJUVZjaKZNWXVoa3luIQop
+IDjuWVBMoSWLTFmf5wwCt9QaS7Fxo25TB8J518JaWWMNf0ZLvH/o/zP3bGkHBZi8
+gBi8ltrjlxVUKiWMkpQDTXNnLTSVuw2oDvVmWUVwFdlZJQ3M6wmkYNtyjNQtGa4T
+QC7KuU0hcKWZLqTlWgoN0WrvudUFk0UODBySGhoYLZyzhuscYwqOFuQWeuPIeRmW
+5immw/EuroUFIk2buqsRBmsbXTcdJpxua5o0d8GP3v9tH3mkxfVgxxyatqwrMmQo
+DV2Z/Jg0NOfMCLZKYDEtGxiVSaGMthSfNAfm6Mm9tAqDEpFJJbQWklIhozKFNjQd
+T0VcN9asisx45mzuTeROs1wKXA1JB7pT1WQoOYK6MXpiZpXrZg2Qnd7etWNZfyU7
+cXwl3dusd+rs4WU+uJS9Xpx/tn7j6+8rg7c/vzy8+rS33/82yF6d/PB5L7swWHtw
+/83+x+vq8vMX33/9AQ==
+=Aeyr
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/colindean
+
+==================================================================
+
