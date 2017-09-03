@@ -2,36 +2,45 @@ body{
   background-color: #eee;
 }
 
-#involvements .pittco {
+.involvements .pittco {
   background-image: url(../images/2013/logos/pittco.png);
 }
-#involvements .thinkcomputers {
+.involvements .thinkcomputers {
   background-image: url(../images/2013/logos/thinkcomputers.png);
 }
-#involvements .steelcityruby {
+.involvements .steelcityruby {
   background-image: url(../images/2013/logos/scrc.png);
 }
-#involvements .ibm {
+.involvements .ibm {
   background-image: url(../images/2013/logos/ibm.png);
 }
-#involvements .vivisimo {
+.involvements .vivisimo {
   background-image: url(../images/2013/logos/vivisimo.png);
 }
-#involvements .metamesh {
+.involvements .metamesh {
   background-image: url(../images/2013/logos/metamesh.png);
 }
-#involvements .codeandsupply {
+.involvements .codeandsupply {
   background-image: url(../images/2014/logos/codeandsupply.png);
 }
-#involvements .devopsdays {
+.involvements .devopsdays {
   background-image: url(../images/2014/logos/devopsdays.png);
 }
-#involvements .imaginecareers {
+.involvements .imaginecareers {
   background-image: url(../images/2014/logos/imaginecareers.png);
 }
-#involvements .gxl {
+.involvements .gxl {
   background-image: url(../images/2014/logos/gxl.png);
 }
-#involvements .abstractions {
+.involvements .abstractions {
   background-image: url(../images/2016/logos/abstractions.png);
+}
+.involvements .arcadia {
+  background-image: url(../images/2017/logos/arcadia.png);
+}
+.involvements .uptime {
+  background-image: url(../images/2017/logos/uptime.png);
+}
+.involvements .heartifacts {
+  background-image: url(../images/2017/logos/heartifacts.png);
 }

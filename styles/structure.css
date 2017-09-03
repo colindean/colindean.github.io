@@ -77,7 +77,7 @@ ul.flat li {
   display: inline;
 }
 
-#involvements .thing {
+.involvements .thing {
   padding-left: 18px;
   background-repeat: no-repeat;
 }
@@ -126,7 +126,7 @@ ul.projects {
   padding: 0 1em 1em 1em;
 }
 
-#involvements ul li {
+.involvements ul li {
   display:inline-block;
 }
 
