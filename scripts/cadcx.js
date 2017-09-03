@@ -38,10 +38,9 @@ $(function($){
     var r = 'rhettigan';
     var personal_list = [
       { service: 'flickr', user: '33990010@N02' },
-      { service: 'formspring', user: c },
-      { service: 'googleplus',
-          user: '111226947505864144715',
-          key: 'AIzaSyB7rrr1VuMDf78z8xaUtxRWVuGJClaOfnY' },
+      //{ service: 'googleplus',
+      //    user: '111226947505864144715',
+      //    key: 'AIzaSyB7rrr1VuMDf78z8xaUtxRWVuGJClaOfnY' },
       { service: 'lastfm', user: c },
       { service: 'reddit', user: c },
       { service: 'twitter', user: c },
@@ -55,8 +54,9 @@ $(function($){
       { service: 'vimeo', user: c },
     ];
     var blog_list = [
-      {service: 'rss2', user: 'http://feeds.cad.cx/TheFlowOfConsciousness'}
-      //{service: 'rss', user: 'http://www.pittco.org/blog/author/colin/feed/'}
+      {service: 'rss2', user: 'http://feeds.cad.cx/TheFlowOfConsciousness'},
+      {service: 'rss2', user: 'https://medium.com/feed/@colindean'},
+      {service: 'tumblr', user: 'current-times'}
     ];
     cadcx.pcount = cadcx.ccount = cadcx.bcount = 0;
     $(".personal.lifestream").lifestream({
