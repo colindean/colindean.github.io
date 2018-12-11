@@ -111,6 +111,10 @@ div.widget h2 {
   width: 95%;
   color: black;
 }
+div.widget h3 {
+  font-style: italic;
+  margin: 0.4em 0.2em;
+}
 p.blurb {
   margin-bottom: 0.7em;
 }
