@@ -43,3 +43,12 @@ section h1 {
 em {
   font-style:italic;
 }
+
+.stream-note {
+  font-variant: all-petite-caps;
+  font-size: x-small;
+  text-align: right;
+}
+.stream-note a {
+  color: inherit; 
+}
