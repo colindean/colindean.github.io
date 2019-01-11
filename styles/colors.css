@@ -13,6 +13,7 @@ body{
 }
 .involvements .ibm {
   background-image: url(../images/2018/logos/watson.png);
+  background-size: contain;
 }
 .involvements .vivisimo {
   background-image: url(../images/2013/logos/vivisimo.png);
