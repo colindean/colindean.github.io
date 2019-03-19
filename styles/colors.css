@@ -45,3 +45,7 @@ body{
 .involvements .heartifacts {
   background-image: url(../images/2017/logos/heartifacts.png);
 }
+.involvements .target {
+  background-image: url(../images/2019/logos/target.png);
+  background-size: contain;
+}
