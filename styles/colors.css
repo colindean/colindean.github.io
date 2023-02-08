@@ -49,3 +49,11 @@ body{
   background-image: url(../images/2019/logos/target.png);
   background-size: contain;
 }
+.involvements .homebrew {
+  background-image: url(../images/2023/logos/homebrew.svg);
+  /*background-size: contain;*/
+}
+.involvements .comintsol {
+  background-image: url(../images/2023/logos/community_internet_solutions.png);
+  background-size: contain;
+}
