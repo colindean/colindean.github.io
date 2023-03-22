@@ -1,0 +1,23 @@
+{
+  "subject": "acct:colindean@mastodon.social",
+  "aliases": [
+    "https://mastodon.social/@colindean",
+    "https://mastodon.social/users/colindean"
+  ],
+  "links": [
+     {
+      "rel": "http://webfinger.net/rel/profile-page",
+      "type": "text/html",
+      "href": "https://mastodon.social/@colindean"
+    },
+    {
+      "rel": "self",
+      "type": "application/activity+json",
+      "href": "https://mastodon.social/users/colindean"
+    },
+    {
+      "rel": "http://ostatus.org/schema/1.0/subscribe",
+      "template": "https://mastodon.social/authorize_interaction?uri={uri}"
+    }
+  ]
+}
