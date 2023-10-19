@@ -88,7 +88,7 @@ header h1, header h2 {
   -o-transition: all 1s ease-in;
   -ms-transition: all 1s ease-in;
   transition: all 1s ease-in;
-  text-align:center;
+  text-align: center;
 }
 
 div.lifestream ul li {
@@ -137,7 +137,7 @@ ul.projects {
 
 @media only screen and (min-width: 1280px){
 div.stream {
-  position:relative;
+  position: relative;
   width: 50%;
   float:left;
 }
@@ -156,11 +156,14 @@ div.stream {
 
 @media only screen and (min-width: 768px){
 section {
-  position:relative;
-  width: 48%;
+  position: relative;
+  width: 61%;
+  /*
   float:left;
   margin-right:5px;
   margin-left:5px;
+  */
+  margin: 0 auto;
 }
 }
 
