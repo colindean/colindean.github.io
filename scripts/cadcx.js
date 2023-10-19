@@ -16,7 +16,7 @@ $(function($){
   );
 
   cadcx.preload_images();
-  cadcx.init_lifestream();
+  //cadcx.init_lifestream();
 
 });
 //functions
@@ -33,6 +33,7 @@ $(function($){
     });
   }
 
+  /*
   cadcx.init_lifestream = function(){
     var c = 'colindean';
     var r = 'rhettigan';
@@ -89,4 +90,5 @@ $(function($){
       }
     }
   }
+  */
 }
