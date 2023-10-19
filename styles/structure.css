@@ -19,7 +19,11 @@ section nav {
 }
 
 nav {
-  padding: 20px;
+  margin-top: 20px;
+}
+nav:last-child {
+  margin-top: 0px;
+  margin-bottom: 20px;
 }
 nav h1 {
   display: inline;
