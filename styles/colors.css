@@ -22,7 +22,12 @@ body{
   background-image: url(../images/2013/logos/metamesh.png);
 }
 .involvements .codeandsupply {
-  background-image: url(../images/2014/logos/codeandsupply.png);
+  background-image: url(../images/2023/logos/codeandsupply.png);
+  background-size: contain;
+}
+.involvements .codeandsupplyfund {
+  background-image: url(../images/2023/logos/codeandsupplyfun.png);
+  background-size: contain;
 }
 .involvements .devopsdays {
   background-image: url(../images/2014/logos/devopsdays.png);
