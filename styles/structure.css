@@ -21,7 +21,7 @@ section nav {
 nav {
   margin-top: 20px;
 }
-nav:last-child {
+nav::last-of-type {
   margin-top: 0px;
   margin-bottom: 20px;
 }
