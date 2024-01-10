@@ -12,12 +12,12 @@ header h1:hover {
 }
 
 nav h1 {
-  font-variant: small-caps; 
+  font-variant: small-caps;
   color: #888;
 }
 
 header h2 {
-  text-shadow: 0px 1px 10px #4d4d4d; 
+  text-shadow: 0px 1px 10px #4d4d4d;
   color: #888;
   font-variant: small-caps;
 }
@@ -50,5 +50,5 @@ em {
   text-align: right;
 }
 .stream-note a {
-  color: inherit; 
+  color: inherit;
 }
