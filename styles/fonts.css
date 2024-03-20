@@ -1,3 +1,7 @@
+:root {
+  font-size: calc(1rem + 0.25vw);
+}
+
 header h1 {
   font-family: Arial;
   font-size: 7em;
