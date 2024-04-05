@@ -138,6 +138,10 @@ ul.projects {
   display:inline-block;
 }
 
+div.widget ul {
+  margin-bottom: 1em;
+}
+
 
 @media only screen and (min-width: 1280px){
 div.stream {
