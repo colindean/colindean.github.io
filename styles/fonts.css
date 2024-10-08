@@ -56,3 +56,7 @@ em {
 .stream-note a {
   color: inherit;
 }
+
+.pronunciation {
+    text-decoration: dotted underline 0.1em;
+}
