@@ -60,3 +60,7 @@ em {
 .pronunciation {
     text-decoration: dotted underline 0.1em;
 }
+
+audio.pronunciation-player {
+  visibility: hidden;
+}
