@@ -15,3 +15,8 @@ repos:
     rev: v1.1.0
     hooks:
       - id: forbid-html-img-without-alt-text
+  - repo: https://github.com/shssoichiro/oxipng
+    rev: v9.0.0
+    hooks:
+      - id: oxipng
+        args: ["-o", "max", "--strip", "safe", "--alpha"]
