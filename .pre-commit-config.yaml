@@ -19,4 +19,4 @@ repos:
     rev: v9.0.0
     hooks:
       - id: oxipng
-        args: ["--max", "--strip", "safe", "--alpha"]
+        args: ["-o", "max", "--strip", "safe", "--alpha"]
