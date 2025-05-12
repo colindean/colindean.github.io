@@ -21,7 +21,7 @@ repos:
       - id: oxipng
         args: ["-o", "max", "--strip", "safe", "--alpha"]
   - repo: https://github.com/kytta/mirrors-svgo
-    rev: 'v4.0.0-rc.2'
+    rev: 'v4.0.0-rc.4'
     hooks:
       - id: svgo
         args: [ "--final-newline", "--multipass" ]
