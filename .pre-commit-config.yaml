@@ -16,12 +16,12 @@ repos:
     hooks:
       - id: forbid-html-img-without-alt-text
   - repo: https://github.com/oxipng/oxipng
-    rev: v10.1.1
+    rev: v10.2.1
     hooks:
       - id: oxipng
         args: ["-o", "max", "--strip", "safe", "--alpha"]
   - repo: https://github.com/kytta/mirrors-svgo
-    rev: 'v4.0.2'
+    rev: 'v4.1.0'
     hooks:
       - id: svgo
         args: [ "--final-newline", "--multipass" ]
